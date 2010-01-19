@@ -1,0 +1,26 @@
+Traduções:
+
+eZ Publish 4.x
+eZ Star Rating 1.0
+eZ Multiupload 1.1
+eZ Password Expiry 1.2
+eZ Google Maps Location 1.0
+eZ Flow 2.0
+eZ Find 2.1
+Website Toolbar 1.0
+eZ Online Editor 5
+eZ ODF
+eZ Publish 3
+Website Interface 1.4
+Regular Expression Textline 3.0
+
+Como instalar a tradução do eZ Publish:
+
+1 - Coloque o arquivo translation.ts dentro de "<ez-publish>/share/translations/por-BR/".
+2 - Limpe todos os caches.
+
+Como instalar a tradução de uma extensão eZ Publish:
+
+1 - Coloque o arquivo translation.ts dentro de "<ez-publish>/extensions/<nome-da-extensao>/translations/por-BR/".
+2 - Limpe todos os caches.
+
