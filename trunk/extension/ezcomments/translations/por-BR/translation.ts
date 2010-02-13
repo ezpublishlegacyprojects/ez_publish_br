@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Post comment</source>
-        <translation>Enviar comentário</translation>
+        <translation>Deixe seu comentário</translation>
     </message>
     <message>
         <source>Title:</source>
