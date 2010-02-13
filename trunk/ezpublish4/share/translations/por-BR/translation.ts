@@ -6848,7 +6848,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Search statistics</source>
-        <translation>Estatísticas de pesquisa</translation>
+        <translation>Estatísticas de busca</translation>
     </message>
     <message>
         <source>System information</source>
@@ -6856,15 +6856,15 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>URL management</source>
-        <translation>Gerenciamento de URLs</translation>
+        <translation>URLs externas</translation>
     </message>
     <message>
         <source>URL translator</source>
-        <translation>Tradutor de URL</translation>
+        <translation>Apelidos de URL</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation>Classes</translation>
+        <translation>Tipos de conteúdo</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -6872,7 +6872,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Ini settings</source>
-        <translation>Configurações ini</translation>
+        <translation>Configurações gerais</translation>
     </message>
     <message>
         <source>Notification</source>
@@ -6946,7 +6946,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>States</source>
-        <translation>Estados</translation>
+        <translation>Estados de conteúdo</translation>
     </message>
 </context>
 <context>
@@ -7075,7 +7075,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Menu management</source>
-        <translation>Gerenciamento do menu</translation>
+        <translation>Configuração do menu</translation>
     </message>
     <message>
         <source>Toolbar management</source>
@@ -7205,7 +7205,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>There are no PDF exports in the list.</source>
-        <translation>Não existem exportações de PDF na lista.</translation>
+        <translation>Não há exportações de PDF no momento.</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -8384,7 +8384,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Destination path</source>
-        <translation>Trajeto do destino</translation>
+        <translation>Caminho do destino</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -8602,7 +8602,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <name>design/admin/search/stats</name>
     <message>
         <source>Search statistics</source>
-        <translation>Estatísticas de pesquisa</translation>
+        <translation>Estatísticas de busca</translation>
     </message>
     <message>
         <source>Phrase</source>
@@ -8988,7 +8988,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>View settings</source>
-        <translation>Visualizar configurações</translation>
+        <translation>Configurações do sistema</translation>
     </message>
     <message>
         <source>Using siteaccess</source>
@@ -9000,11 +9000,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Select ini file to view</source>
-        <translation>Selecionar o arquivo file para visualização </translation>
+        <translation>Selecione um arquivo para visualizar</translation>
     </message>
     <message>
         <source>Select siteaccess</source>
-        <translation>Selecionar o acesso de site</translation>
+        <translation>Selecione o acesso de site</translation>
     </message>
     <message>
         <source>Select</source>
@@ -9012,7 +9012,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Settings for %inifile in siteaccess %siteaccess</source>
-        <translation>Configurações para %inifile no acesso de site %siteaccess</translation>
+        <translation>Configurações de %inifile no acesso ao site %siteaccess</translation>
     </message>
     <message>
         <source>[add setting]</source>
@@ -9076,7 +9076,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Please select an ini file from the drop-down below</source>
-        <translation>Selecione um arquivo de configuração no menu suspenso abaixo</translation>
+        <translation>Selecione um arquivo de configuração no menu abaixo</translation>
     </message>
     <message>
         <source>Values for each location setting are shown. The first values have lowest priority; the values toward the end have higher priority than the first ones.</source>
@@ -9194,7 +9194,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Path</source>
-        <translation>Trajeto</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Clear selected</source>
@@ -9218,7 +9218,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Fine-grained cache control</source>
-        <translation>Controle refinado do cache</translation>
+        <translation>Controle completo do cache</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -9234,15 +9234,15 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Static content cache was regenerated</source>
-        <translation>O cache de conteúdo estático foi gerado novamente</translation>
+        <translation>O cache de páginas estáticas foi gerado novamente</translation>
     </message>
     <message>
         <source>Static content cache</source>
-        <translation>Cache de conteúdo estático</translation>
+        <translation>Cache de páginas estáticas</translation>
     </message>
     <message>
         <source>Regenerate static content cache</source>
-        <translation>Gerar novamente o cache de conteúdo estático</translation>
+        <translation>Gerar novamente o cache de páginas estáticas</translation>
     </message>
     <message>
         <source>Create new</source>
@@ -9270,7 +9270,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>This operation will regenerate all the static content caches that are configured. This action can take  some time depending on the specifications of the server and the number of locations that are configured to be statically cached. If you encounter time-out problems, use the &amp;quot;bin/php/makestaticcache.php&amp;quot; shell script.</source>
-        <translation>Esta operação vai gerar todo o cache de conteúdo estático que está configurado. Esta ação pode levar     algum tempo, dependendo das especificações do servidor e do número de locais que estão configurados para ficar  em cache estático. Se você encontrar problemas com tempo excedido, use o shell script &amp;quot;bin/php/makestaticcache.php&amp;quot;.</translation>
+        <translation>Esta operação vai gerar todo o cache de páginas estáticas que está configurado. Esta ação pode levar algum tempo, dependendo das especificações do servidor e do número de locais que estão configurados para ficar em cache estático. Se você encontrar problemas com tempo excedido, use o shell script &amp;quot;bin/php/makestaticcache.php&amp;quot;.</translation>
     </message>
     <message>
         <source>Clear Ini caches</source>
@@ -11967,11 +11967,11 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Valid</source>
-        <translation>Válida</translation>
+        <translation>Válidas</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Inválida</translation>
+        <translation>Inválidas</translation>
     </message>
     <message>
         <source>Address</source>
@@ -12015,7 +12015,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>View information about URL.</source>
-        <translation>Ver informação sobre a URL.</translation>
+        <translation>Informação sobre a URL.</translation>
     </message>
     <message>
         <source>Open URL in new window.</source>
@@ -12404,7 +12404,7 @@ your account.</source>
     <name>design/admin/visual/menuconfig</name>
     <message>
         <source>Menu management</source>
-        <translation>Gerenciamento do menu</translation>
+        <translation>Configuração do menu</translation>
     </message>
     <message>
         <source>Set</source>
@@ -12424,7 +12424,7 @@ your account.</source>
     </message>
     <message>
         <source>Siteaccess</source>
-        <translation>Acesso ao site</translation>
+        <translation>Acesso de site</translation>
     </message>
 </context>
 <context>
@@ -13183,7 +13183,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no workflows in this group.</source>
-        <translation>Não existem workflows neste grupo.</translation>
+        <translation>Não há workflows definidos neste grupo.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -17900,7 +17900,7 @@ Se você removê-los, todas as crianças serão removidas também.
     </message>
     <message>
         <source>Path</source>
-        <translation>Trajeto</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Count</source>
@@ -19349,7 +19349,7 @@ menu do topo.</translation>
     </message>
     <message>
         <source>Source path</source>
-        <translation>Trajeto da fonte</translation>
+        <translation>Caminho da orgigem</translation>
     </message>
     <message>
         <source>Class</source>
@@ -20208,7 +20208,7 @@ Usando o %operatorname você pode ...</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Trajeto</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -24250,7 +24250,7 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     <name>design/standard/visual/menuconfig</name>
     <message>
         <source>Menu management</source>
-        <translation>Gerenciamento do menu</translation>
+        <translation>Confguração do menu</translation>
     </message>
     <message>
         <source>Set</source>
@@ -27480,7 +27480,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Visualização</translation>
+        <translation>Visualizar</translation>
     </message>
 </context>
 <context>
