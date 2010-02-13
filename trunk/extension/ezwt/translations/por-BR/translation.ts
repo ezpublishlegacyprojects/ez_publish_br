@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TS>
-<TS>
+<!DOCTYPE TS><TS>
 <context>
     <name>design/standard/content/edit</name>
     <message>
@@ -93,6 +91,10 @@
         <source>Edit object states</source>
         <translation>Editar estados do objeto</translation>
     </message>
+    <message>
+        <source>Toggle menu link type edit.</source>
+        <translation>Alternar tipo de link.</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/websitetoolbar/sort</name>
@@ -126,7 +128,7 @@
     </message>
     <message>
         <source>Modifier</source>
-        <translation>Modificador</translation>
+        <translation type="obsolete">Modificador</translation>
     </message>
     <message>
         <source>Modified</source>
@@ -137,8 +139,8 @@
         <translation>Seção</translation>
     </message>
     <message>
-        <source>Use the priority fields to control the order in which the items appear. You can use both positive and negative integers. Click the "Update priorities" button to apply the changes.</source>
-        <translation>Use os campos de prioridade para controlar a ordem em que os itens aparecem. Você pode usar tanto números positivos como negativos. Clique no botão "Atualizar as prioridades" para aplicar as alterações.</translation>
+        <source>Use the priority fields to control the order in which the items appear. You can use both positive and negative integers. Click the &quot;Update priorities&quot; button to apply the changes.</source>
+        <translation>Use os campos de prioridade para controlar a ordem em que os itens aparecem. Você pode usar tanto números positivos como negativos. Clique no botão &quot;Atualizar as prioridades&quot; para aplicar as alterações.</translation>
     </message>
     <message>
         <source>You are not allowed to update the priorities because you do not have permission to edit &lt;%node_name&gt;.</source>
@@ -146,7 +148,7 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Desconhecido</translation>
+        <translation type="obsolete">Desconhecido</translation>
     </message>
     <message>
         <source>The current item does not contain any sub items.</source>
@@ -207,6 +209,26 @@
     <message>
         <source>Invalid or missing parameter: %parameter</source>
         <translation>O parâmetro está faltando ou é inválido: %parameter</translation>
+    </message>
+    <message>
+        <source>Use these checkboxes to select items for removal. Click the &quot;Remove selected&quot; button to  remove the selected items.</source>
+        <translation>Use estas opções para selecionar os itens a serem removidos. Clique no botão &quot;Remover selecionados&quot; para remover os itens selecionados.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to remove this item.</source>
+        <translation>Você não tem permissão para remover este item.</translation>
+    </message>
+    <message>
+        <source>Remove the selected items from the list above.</source>
+        <translation>Remover os itens selecionados da lista acima.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to remove any of the items from the list above.</source>
+        <translation>Você não tem permissão para remover qualquer um dos itens da lista acima.</translation>
+    </message>
+    <message>
+        <source>Automaitc update</source>
+        <translation>Atualização automática</translation>
     </message>
 </context>
 </TS>
