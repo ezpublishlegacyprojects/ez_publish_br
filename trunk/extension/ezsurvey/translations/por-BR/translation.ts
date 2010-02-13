@@ -98,35 +98,35 @@
     </message>
     <message>
         <source>Survey</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisa</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>No results</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum resultado</translation>
     </message>
     <message>
         <source>Survey Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar pesquisa</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Result overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados gerais</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <source>Survey result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados da pesquisa</translation>
     </message>
     <message>
         <source>Survey Wizard</source>
@@ -134,15 +134,15 @@
     </message>
     <message>
         <source>Embedded form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário incorporado</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitado</translation>
     </message>
     <message>
         <source>Only one answer allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas uma resposta é permitida.</translation>
     </message>
     <message>
         <source>Persistent user input. ( Users will be able to edit survey later. )</source>
@@ -154,47 +154,47 @@
     </message>
     <message>
         <source>No limitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem limitações</translation>
     </message>
     <message>
         <source>Year</source>
-        <translation type="unfinished"></translation>
+        <translation>Ano</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Mês</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuto</translation>
     </message>
     <message>
         <source>Active to</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitado para</translation>
     </message>
     <message>
         <source>After &quot;Submit&quot; redirect to URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Após &quot;Enviar&quot; redirecione para a URL</translation>
     </message>
     <message>
         <source>Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Visível</translation>
     </message>
     <message>
         <source>Remove selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover selecionado</translation>
     </message>
     <message>
         <source>New attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo atributo</translation>
     </message>
     <message>
         <source>You need to log in in order to answer this survey</source>
@@ -210,11 +210,11 @@
     </message>
     <message>
         <source>Questions marked with %mark% are required.</source>
-        <translation type="unfinished"></translation>
+        <translation>As questões marcadas com %mark% são obrigatórias.</translation>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Email entry</source>
@@ -222,83 +222,83 @@
     </message>
     <message>
         <source>Text of question</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto da questão</translation>
     </message>
     <message>
         <source>Mandatory answer</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta obrigatória</translation>
     </message>
     <message>
         <source>Default settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração padrão</translation>
     </message>
     <message>
         <source>Default answer</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta padrão</translation>
     </message>
     <message>
         <source>User email</source>
-        <translation type="unfinished"></translation>
+        <translation>Email do usuário</translation>
     </message>
     <message>
         <source>Formatted Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Parágrafo formatado</translation>
     </message>
     <message>
         <source>Text of paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto do parágrafo</translation>
     </message>
     <message>
         <source>Single/Multiple choice</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha Única/Múltipla</translation>
     </message>
     <message>
         <source>Rendering style</source>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de exibição</translation>
     </message>
     <message>
         <source>Radio buttons in a row</source>
-        <translation type="unfinished"></translation>
+        <translation>Botões de radio em linha</translation>
     </message>
     <message>
         <source>Radio buttons in a column</source>
-        <translation type="unfinished"></translation>
+        <translation>Botões de radio em coluna</translation>
     </message>
     <message>
         <source>Checkboxes in a row</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixas de seleção em linha</translation>
     </message>
     <message>
         <source>Checkboxes in a column</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixas de seleção em coluna</translation>
     </message>
     <message>
         <source>Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>Seletor</translation>
     </message>
     <message>
         <source>Option label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo da opção</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Assinalado</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem</translation>
     </message>
     <message>
         <source>New option</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova opção</translation>
     </message>
     <message>
         <source>Add extra option</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar opção extra</translation>
     </message>
     <message>
         <source>Uncheck options</source>
@@ -310,23 +310,23 @@
     </message>
     <message>
         <source>Integer values only</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas valores inteiros</translation>
     </message>
     <message>
         <source>Minimum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor mínimo</translation>
     </message>
     <message>
         <source>Maximum value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor máximo</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>Paragrafo</translation>
     </message>
     <message>
         <source>Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Quem recebe</translation>
     </message>
     <message>
         <source>N. B. If you enter just one email address, user will not see this question. Instead the posting
@@ -363,11 +363,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Section header</source>
-        <translation type="unfinished"></translation>
+        <translation>Topo da seção</translation>
     </message>
     <message>
         <source>Text of header</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto do topo</translation>
     </message>
     <message>
         <source>Text entry</source>
@@ -431,11 +431,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Apply and Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar e visualizar</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -455,7 +455,7 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Persistent</source>
-        <translation type="unfinished"></translation>
+        <translation>Persistente</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -475,7 +475,7 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Não iniciada</translation>
     </message>
     <message>
         <source>Open</source>
@@ -499,11 +499,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Related object configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração do objeto relacionado</translation>
     </message>
     <message>
         <source>Set the parent node for the survey attributes, which are of the type Related Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina o nó pai para os atributos da pesquisa, que devem ser do tipo Objeto relacionado</translation>
     </message>
     <message>
         <source>Content class.</source>
@@ -511,7 +511,7 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Set the parent folder for the survey attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina a pasta para os atributos da pesquisa.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -523,11 +523,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar todos</translation>
     </message>
     <message>
         <source>Update the configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar a configuração.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the survey &apos;%1&apos; with all evaluations?</source>
@@ -555,11 +555,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Percentage</source>
-        <translation type="unfinished"></translation>
+        <translation>Porcentagem</translation>
     </message>
     <message>
         <source>Survey result overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Visão geral dos resultados da pesquisa</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -607,11 +607,11 @@ will be directly sent to the address.</source>
     </message>
     <message>
         <source>Import database tables</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar tabelas do banco de dados</translation>
     </message>
     <message>
         <source>This installs the tables eZ Survey needs to store data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isso instalará as tabelas do eZ Survey necessárias para armazenar os dados.</translation>
     </message>
     <message>
         <source>Import survey content classes</source>
