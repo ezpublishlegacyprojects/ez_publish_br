@@ -119,6 +119,10 @@
         <source>Use this menu to select the language you to want use then click the &quot;New class&quot; button. The item will be created within the current location.</source>
         <translation>Use esse menu para selecionar o idioma que você deseja utilizar, em seguida, clique no botão &quot;Nova classe&quot;. O item será criado dentro da localização atual.</translation>
     </message>
+    <message>
+        <source>List of classes inside %group_name class group [%class_count]</source>
+        <translation>Lista de classes dentro do grupo %group_name [%class_count]</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/class/datatype/browse_objectrelation_placement</name>
@@ -348,6 +352,42 @@
         <source>The &lt;%datatype_name&gt; datatype cannot be used as an information collector.</source>
         <translation>O tipo de dado &lt;%datatype_name&gt; não pode ser utilizado como coletor de informação.</translation>
     </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; [%object_count]</source>
+        <translation>Editar &lt;%class_name&gt; [%object_count]</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
+    </message>
+    <message>
+        <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
+        <translation>Use este campo para uma descrição informal da classe. O campo de descrição pode conter espaços em branco e caracteres especiais.</translation>
+    </message>
+    <message>
+        <source>List of class attributes</source>
+        <translation>Lista dos attributos da classe</translation>
+    </message>
+    <message>
+        <source>Class attribute item</source>
+        <translation>Atributo da classe</translation>
+    </message>
+    <message>
+        <source>Use this field to set the informal description of the attribute. This field can contain whitespaces and special characters.</source>
+        <translation>Use este campo para uma descrição informal do atributo. Este campo  pode conter espaços em branco e caracteres especiais.</translation>
+    </message>
+    <message>
+        <source>Use this category to group attributes together in edit interface, some categories might also be hidden in full view if they are for instance only meta attributes.</source>
+        <translation>Utilize esta categoria para agrupar os atributos na interface de edição, algumas categorias podem também ser escondidas, se forem por exemplo, apenas meta dados.</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>Padrão</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>Categoria</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/class/edit_denied</name>
@@ -495,6 +535,18 @@
     <message>
         <source>Edit the &lt;%class_name&gt; class.</source>
         <translation>Editar a classe &lt;%class_name&gt;.</translation>
+    </message>
+    <message>
+        <source>List of class groups</source>
+        <translation>Lista de grupos de classes</translation>
+    </message>
+    <message>
+        <source>List of recently modified classes</source>
+        <translation>Lista de classes modificadas recentemente</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation>Objetos</translation>
     </message>
 </context>
 <context>
@@ -917,6 +969,30 @@
     <message>
         <source>Use this menu to select the language you want to use for editing then click the &quot;Edit&quot; button.</source>
         <translation>Use este menu para selecionar o idioma que pretende editar, em seguida, clique no botão &quot;Editar&quot;.</translation>
+    </message>
+    <message>
+        <source>Class storing deferred</source>
+        <translation>Armazenamento da classe adiado</translation>
+    </message>
+    <message>
+        <source>The storing of the class has been deferred because existing objects need to be updated. The process has been scheduled to run in the background and will be started automatically. Please do not edit the class again until the process has finished. You can monitor the progress of the background process here:</source>
+        <translation>O armazenamento da classe foi adiado porque os objetos já existentes precisam ser atualizados. O processo foi programado para ser executado em segundo plano e será iniciado automaticamente. Por favor, não edite a classe novamente até que o processo tenha terminado. Você pode acompanhar o andamento do processo em segundo plano aqui:</translation>
+    </message>
+    <message>
+        <source>Background process monitor</source>
+        <translation>Monitor de processos em segundo plano</translation>
+    </message>
+    <message>
+        <source>Class name and number of objects</source>
+        <translation>Nome da classe e número de ojetos</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>Categoria</translation>
     </message>
 </context>
 <context>
@@ -1503,6 +1579,13 @@
     </message>
 </context>
 <context>
+    <name>design/admin/content/dashboard</name>
+    <message>
+        <source>Dashboard</source>
+        <translation>Painel</translation>
+    </message>
+</context>
+<context>
     <name>design/admin/content/datatype</name>
     <message>
         <source>No media file is available.</source>
@@ -2047,6 +2130,22 @@
     <message>
         <source>States</source>
         <translation>Estados</translation>
+    </message>
+    <message>
+        <source>Toggle fullscreen editing!</source>
+        <translation>Alterar para edição em tela cheia!</translation>
+    </message>
+    <message>
+        <source>Store draft and exit</source>
+        <translation>Salvar rascunho e sair</translation>
+    </message>
+    <message>
+        <source>Store the draft that is being edited and exit from edit mode. Use when you need to exit your work and return later to continue.</source>
+        <translation>Salvar o rascunho que está sendo editado e sair do modo de edição. Use quando você precisar sair da edição e voltar mais tarde para continuar</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>Pré-visualizar</translation>
     </message>
 </context>
 <context>
@@ -4136,6 +4235,10 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
         <source>Your selected translation does not match the language of your selected siteaccess. This may lead to unexpected results in the preview, however it may also be what you intended.</source>
         <translation>A tradução que você selecionou não corresponde ao idioma do seu acesso de site selecionado. Isso pode levar a resultados inesperados na visualização, no entanto, isso também pode ser o que você pretende.</translation>
     </message>
+    <message>
+        <source>Back to edit</source>
+        <translation>Voltar para edição</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/contentstructuremenu</name>
@@ -4182,6 +4285,196 @@ Apelidos de URL definidos globalmente [%alias_count]</translation>
     <message>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
         <translation>[%classname] Clique no ícone para exibir um menu sensível ao contexto.</translation>
+    </message>
+    <message>
+        <source>Object ID</source>
+        <translation>ID do objeto</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/all_latest_content</name>
+    <message>
+        <source>All latest content</source>
+        <translation>Útimos conteúdos</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>Published</source>
+        <translation>Publicado</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation>Autor</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%child_name&gt;.</source>
+        <translation>Editar &lt;%child_name&gt;.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to edit &lt;%child_name&gt;.</source>
+        <translation>Você não tem permissão para editar &lt;%child_name&gt;.</translation>
+    </message>
+    <message>
+        <source>Latest content list is empty.</source>
+        <translation>A lista com os últimos conteúdos está vazia.</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/drafts</name>
+    <message>
+        <source>Your drafts</source>
+        <translation>Seus rascunhos</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Versão</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Modificado</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%draft_name&gt;.</source>
+        <translation>Editar &lt;%draft_name&gt;.</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Currently you do not have any drafts available.</source>
+        <translation>Atualmente você não tem nenhum rascunho disponível.</translation>
+    </message>
+    <message>
+        <source>My drafts</source>
+        <translation>Meus rascunhos</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/latest_content</name>
+    <message>
+        <source>Your latest content</source>
+        <translation>Seus últimos conteúdos</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Modificado</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%child_name&gt;.</source>
+        <translation>Editar &lt;%child_name&gt;.</translation>
+    </message>
+    <message>
+        <source>You do not have permission to edit &lt;%child_name&gt;.</source>
+        <translation>Você não tem permissão para editar &lt;%child_name&gt;.</translation>
+    </message>
+    <message>
+        <source>Your latest content list is empty.</source>
+        <translation>A lista com seus últimos conteúdos está vazia</translation>
+    </message>
+    <message>
+        <source>My latest content</source>
+        <translation>Meus últimos conteúdos</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/maintenance</name>
+    <message>
+        <source>Maintenance</source>
+        <translation>Manutenção</translation>
+    </message>
+    <message>
+        <source>Currently you are using eZ Publish version: %1</source>
+        <translation>Atualmente você está usando o eZ Publish: %1</translation>
+    </message>
+    <message>
+        <source>Software update and Maintenance</source>
+        <translation>Atualização do programa e manutenção</translation>
+    </message>
+    <message>
+        <source>Your installation: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</source>
+        <translation>Sua instalação: &lt;span id=&quot;ez-version&quot;&gt;%1&lt;/span&gt;</translation>
+    </message>
+    <message>
+        <source>If your installation is not running eZ Publish Premium, it might not be up to date with the latest maintenance service packs. Contact eZ Systems.</source>
+        <translation>Se a sua instalação não está executando o eZ Publish Premium, não pode ser atualizada com os últimos service packs de manutenção. Contate a eZ Systems</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/pending_list</name>
+    <message>
+        <source>Your pending items</source>
+        <translation>Seus itens pendentes</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>Modified</source>
+        <translation>Modificado</translation>
+    </message>
+    <message>
+        <source>Currently you do not have any pending items available.</source>
+        <translation>Atualmente você não tem nenhum item pendente.</translation>
+    </message>
+    <message>
+        <source>My pending items</source>
+        <translation>Meus itens pendentes</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/dashboard/wishlist</name>
+    <message>
+        <source>Wish list</source>
+        <translation>Lista de desejos</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Tipo</translation>
+    </message>
+    <message>
+        <source>Currently you do not have any products on your wish list.</source>
+        <translation>Atualmente você não tem produtos em sua lista de desejos.</translation>
     </message>
 </context>
 <context>
@@ -5467,6 +5760,98 @@ Tem certeza de que deseja remover a informação coletada?</translation>
         <source>Show state assignment widget.</source>
         <translation>Mostrar definições de estado.</translation>
     </message>
+    <message>
+        <source>Tab is disabled, enable on dashboard.</source>
+        <translation>A aba está desabilitada, habilite ela no painel.</translation>
+    </message>
+    <message>
+        <source>Translations (%count)</source>
+        <translation>Traduções (%count)</translation>
+    </message>
+    <message>
+        <source>Locations (%count)</source>
+        <translation>Locais (%count)</translation>
+    </message>
+    <message>
+        <source>Relations (%count)</source>
+        <translation>Relacionamentos (%count)</translation>
+    </message>
+    <message>
+        <source>Roles (%count)</source>
+        <translation>Papéis (%count)</translation>
+    </message>
+    <message>
+        <source>Policies (%count)</source>
+        <translation>Políticas (%count)</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Criar</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation>em</translation>
+    </message>
+    <message>
+        <source>Here</source>
+        <translation>Aqui</translation>
+    </message>
+    <message>
+        <source>List of sub items of current node, with controlls to edit, remove and move them directly.</source>
+        <translation>Lista de subitens do nó atual com controles para editar, remover e movê-los diretamente.</translation>
+    </message>
+    <message>
+        <source>Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.</source>
+        <translation>Nó e detalhes do objeto como criador, quando foi criado, seção a que pertence, número de versões e traduções, ID do nó e ID do objeto.</translation>
+    </message>
+    <message>
+        <source>Content state</source>
+        <translation>Estado do conteúdo</translation>
+    </message>
+    <message>
+        <source>States and their states groups for current object.</source>
+        <translation>Estados e os seus grupos de estados para o objeto atual.</translation>
+    </message>
+    <message>
+        <source>State group</source>
+        <translation>Grupo de estados</translation>
+    </message>
+    <message>
+        <source>No content object state is configured. This can be done %urlstart here%urlend.</source>
+        <translation>Nenhum estado de objeto de conteúdo foi configurado. Isto pode ser feito %urlstart aqui%urlend.</translation>
+    </message>
+    <message>
+        <source>Locations (aka Nodes) for current object.</source>
+        <translation>Locais (Nós) do objeto atual.</translation>
+    </message>
+    <message>
+        <source>Policy list and the Role that are assignet to current node.</source>
+        <translation>Lista de políticas e papéis atribuídos ao nó atual.</translation>
+    </message>
+    <message>
+        <source>Limited to</source>
+        <translation>Limitado para</translation>
+    </message>
+    <message>
+        <source>%limitation_identifier %limitation_value</source>
+        <translation>%limitation_identifier %limitation_value</translation>
+    </message>
+    <message>
+        <source>Object relation list from current object.</source>
+        <translation>Lista de objetos relacionados do objeto atual.</translation>
+    </message>
+    <message>
+        <source>Reverse object relation list to current object.</source>
+        <translation>Lista de objetos relacionados em reverso ao objeto atual.</translation>
+    </message>
+    <message>
+        <source>List of roles assigned with and without limitations for current node.</source>
+        <translation>Lista de papéis atribuídos com e sem limitações para o nó atual.</translation>
+    </message>
+    <message>
+        <source>Language list of translations for current object.</source>
+        <translation>Lista de idiomas das traduções do objeto atual.</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/node/view/line</name>
@@ -6101,7 +6486,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>My account</source>
-        <translation>Minha conta</translation>
+        <translation type="obsolete">Minha conta</translation>
     </message>
     <message>
         <source>Current user</source>
@@ -6239,6 +6624,36 @@ Nota: Os pacotes não serão desinstalados.</translation>
         <source>[%classname] Click on the icon to display a context-sensitive menu.</source>
         <translation>[%classname] Clique no ícone para exibir um menu sensível ao contexto.</translation>
     </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Painel</translation>
+    </message>
+    <message>
+        <source>Search in all content</source>
+        <translation>Pesquisa em todo conteúdo</translation>
+    </message>
+    <message>
+        <source>Search in &apos;%node&apos;</source>
+        <translation>Pesquisar em &apos;%node&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/pagelayout/path</name>
+    <message>
+        <source>You are here:</source>
+        <translation>Você está aqui:</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/pagelayout/rightmenu</name>
+    <message>
+        <source>Show / Hide rightmenu</source>
+        <translation>Exibir / Esconder menu esquedo</translation>
+    </message>
+    <message>
+        <source>Hide / Show rightmenu</source>
+        <translation>Esconder / Exibir menu esquedo</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/parts/content/menu</name>
@@ -6285,6 +6700,10 @@ Nota: Os pacotes não serão desinstalados.</translation>
     <message>
         <source>Show content structure.</source>
         <translation>Mostrar estrutura do conteúdo.</translation>
+    </message>
+    <message>
+        <source>Site structure</source>
+        <translation>Estrutura do site</translation>
     </message>
 </context>
 <context>
@@ -6399,6 +6818,26 @@ Nota: Os pacotes não serão desinstalados.</translation>
     <message>
         <source>Enable &amp;quot;Back to edit&amp;quot; checkbox when editing content.</source>
         <translation>Habilita a caixa de seleção &amp;quot;Voltar para edição&amp;quot; ao editar um conteúdo.</translation>
+    </message>
+    <message>
+        <source>Edit profile</source>
+        <translation>Editar perfil</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Painel</translation>
+    </message>
+    <message>
+        <source>Preview tab</source>
+        <translation>Aba de pré-visualização</translation>
+    </message>
+    <message>
+        <source>Disable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <translation>Desabilita a aba &amp;quot;Pré-visualizar&amp;quot; ao navegar pelo conteúdo.</translation>
+    </message>
+    <message>
+        <source>Enable &amp;quot;Preview tab&amp;quot; while browsing content.</source>
+        <translation>Habilita a aba &amp;quot;Pré-visualizar&amp;quot; ao navegar pelo conteúdo.</translation>
     </message>
 </context>
 <context>
@@ -6589,7 +7028,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>Manage permission settings.</source>
-        <translation>Gerenciar as configurações de permissão.</translation>
+        <translation type="obsolete">Gerenciar as configurações de permissão.</translation>
     </message>
     <message>
         <source>Roles and policies</source>
@@ -6943,6 +7382,14 @@ Nota: Os pacotes não serão desinstalados.</translation>
         <source>Choose siteaccess</source>
         <translation>Acesso de site</translation>
     </message>
+    <message>
+        <source>Create RSS/ATOM feed</source>
+        <translation>Criar Feed RSS/ATOM</translation>
+    </message>
+    <message>
+        <source>Remove RSS/ATOM feed</source>
+        <translation>Remover Feed RSS/ATOM</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/preview/article</name>
@@ -7121,6 +7568,10 @@ Nota: Os pacotes não serão desinstalados.</translation>
     <message>
         <source>Use the drop-down menu to select the module that you want to grant access to.</source>
         <translation>Use o menu suspenso para selecionar o módulo que você pretende conceder acesso.</translation>
+    </message>
+    <message>
+        <source>Every function</source>
+        <translation>Todas as funções</translation>
     </message>
 </context>
 <context>
@@ -7649,6 +8100,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <source>Name</source>
         <translation>Nome</translation>
     </message>
+    <message>
+        <source>Path: &apos;/%path_string&apos;, Class identifier: &apos;%class_identifier&apos;</source>
+        <translation>Caminho &apos;/%path_string&apos;, Identificador da classe: &apos;%class_identifier&apos;</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/rss/browse_destination</name>
@@ -7902,11 +8357,19 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>Use this drop-down to select the attribute that should be exported as the category of the RSS export entry.</source>
-        <translation>Utilize este menu suspenso para selecionar o atributo que deverá ser exportado como a categoria desta exportação RSS.</translation>
+        <translation>Utilize este menu para selecionar o atributo que deverá ser exportado como a categoria desta exportação RSS.</translation>
     </message>
     <message>
         <source>Skip</source>
         <translation>Pular</translation>
+    </message>
+    <message>
+        <source>Enclosure (media)</source>
+        <translation>Anexo (midia)</translation>
+    </message>
+    <message>
+        <source>Use this drop-down to select the attribute that should be exported as the enclosure of the RSS export entry, enclosures are direct link to a media file, so use a media/image/file datatype .</source>
+        <translation>Utilize este menu para selecionar o atributo que deverá ser exportado como o anexo do registro RSS, anexos de RSS são links diretos para o arquivo, portanto utilize um tipo de dado imagem, midia ou arquivo.</translation>
     </message>
 </context>
 <context>
@@ -8026,6 +8489,10 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Click this button to load the correct values into the drop-down fields below. Use the drop-down menu on the left to select the class.</source>
         <translation>Clique neste botão para carregar os valores corretos para o menu suspenso abaixo. Use o menu suspenso à esquerda para selecionar a classe.</translation>
+    </message>
+    <message>
+        <source>Enclosure (media)</source>
+        <translation type="obsolete">Anexo (midia)</translation>
     </message>
 </context>
 <context>
@@ -9431,6 +9898,30 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Email</source>
         <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Not all timed out sessions were successfully removed.</source>
+        <translation>Nem todas as sessões expiradas foram removidas com sucesso.</translation>
+    </message>
+    <message>
+        <source>The operation were cut short in order to avoid execution timeout.</source>
+        <translation>A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
+    </message>
+    <message>
+        <source>Your alternatives are to:</source>
+        <translation>Suas alternativas são:</translation>
+    </message>
+    <message>
+        <source>Repeat the operation several times to complete it.</source>
+        <translation>Repetir a operação várias vezes para concluí-la.</translation>
+    </message>
+    <message>
+        <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
+        <translation>Limpar as sessões expiradas através da linha de comando usando: &amp;gt;php bin/php/ezsessiongc.php</translation>
+    </message>
+    <message>
+        <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation>Instalar a limpeza de sessão via cronjob &apos;session_gc.php&apos; para ser executada no período noturno (ver cronjob.ini ou o doc de como fazer)</translation>
     </message>
 </context>
 <context>
@@ -11174,6 +11665,22 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
         <source>Cancel saving any changes.</source>
         <translation>Cancelar qualquer mudança.</translation>
     </message>
+    <message>
+        <source>Identifier:</source>
+        <translation>Identificador:</translation>
+    </message>
+    <message>
+        <source>Default language:</source>
+        <translation>Idioma padrão:</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Nome:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation>Descrição</translation>
+    </message>
 </context>
 <context>
     <name>design/admin/state/group</name>
@@ -11232,6 +11739,14 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>The content object state was successfully created.</source>
         <translation>O estado de objeto de conteúdo foi criado com sucesso.</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
+    </message>
+    <message>
+        <source>Create a new state.</source>
+        <translation>Criar um novo estado.</translation>
     </message>
 </context>
 <context>
@@ -11338,6 +11853,25 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     <message>
         <source>Create a new state group.</source>
         <translation>Criar um novo grupo de estados.</translation>
+    </message>
+</context>
+<context>
+    <name>design/admin/state/view</name>
+    <message>
+        <source>ID</source>
+        <translation>ID</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation>Identificador</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
     </message>
 </context>
 <context>
@@ -12236,7 +12770,7 @@ your account.</source>
     <name>design/admin/workflow/edit</name>
     <message>
         <source>Input did not validate</source>
-        <translation>As informações entradas não são válidas</translation>
+        <translation>As informações inseridas são inválidas</translation>
     </message>
     <message>
         <source>Data requires fixup</source>
@@ -12546,7 +13080,7 @@ your account.</source>
     <name>design/admin/workflow/view</name>
     <message>
         <source>Input did not validate</source>
-        <translation>As informações entradas não são válidas</translation>
+        <translation>As informações inseridas são inválidas</translation>
     </message>
     <message>
         <source>%workflow_name [Workflow]</source>
@@ -13994,7 +14528,7 @@ your account.</source>
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>As informações entradas não são válidas</translation>
+        <translation>As informações inseridas são inválidas</translation>
     </message>
     <message>
         <source>Input was stored successfully</source>
@@ -14120,6 +14654,61 @@ your account.</source>
     <message>
         <source>Discard changes</source>
         <translation>Descartar alterações</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
+    </message>
+    <message>
+        <source>Use this field to set the informal description of the class. The description field can contain whitespaces and special characters.</source>
+        <translation>Use este campo para uma descrição informal da classe. O campo de descrição pode conter espaços em branco e caracteres especiais.</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/class/edit_locked</name>
+    <message>
+        <source>Class locked</source>
+        <translation>Classe bloqueada</translation>
+    </message>
+    <message>
+        <source>This class has pending modifications defered to cronjob and thus it cannot be edited.</source>
+        <translation>Esta classe tem modificações pendentes encaminhadas para cronjob e, portanto, não pode ser editada.</translation>
+    </message>
+    <message>
+        <source>Wait until the script is finished. You might see the status in the %urlstart script monitor%urlend&lt;/a&gt;.</source>
+        <translation>Aguarde até que o script tenha terminado. Você pode ver o status no %urlstart monitor de scripts%urlend&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>To force the modification of the class you may run the following command</source>
+        <translation>Para forçar a alteração da classe você pode executar o seguinte comando</translation>
+    </message>
+    <message>
+        <source>Edit &lt;%class_name&gt; [Class]</source>
+        <translation>Editar &lt;%class_name&gt; [Classe]</translation>
+    </message>
+    <message>
+        <source>Class</source>
+        <translation>Classe</translation>
+    </message>
+    <message>
+        <source>Last modifier</source>
+        <translation>Último modificador</translation>
+    </message>
+    <message>
+        <source>Last modified on</source>
+        <translation>Última modificação em</translation>
+    </message>
+    <message>
+        <source>The class will be available for editing after the script has been run by the cronjob.</source>
+        <translation>A classe estará disponível para edição após o script ser executado pelo cronjob.</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Tentar novamente</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -14282,6 +14871,10 @@ your account.</source>
     <message>
         <source>Siteaccess</source>
         <translation>Acesso ao site</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
     </message>
 </context>
 <context>
@@ -15354,6 +15947,18 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
         <source>Silverlight</source>
         <translation>Silverlight</translation>
     </message>
+    <message>
+        <source>There are no related object.</source>
+        <translation>Não há objetos relacionados.</translation>
+    </message>
+    <message>
+        <source>Find object</source>
+        <translation>Encontrar objeto</translation>
+    </message>
+    <message>
+        <source>Find objects</source>
+        <translation>Encontrar objetos</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/content/diff</name>
@@ -15566,7 +16171,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>As informações entradas não são válidas</translation>
+        <translation>As informações inseridas são inválidas</translation>
     </message>
     <message>
         <source>Location did not validate</source>
@@ -17179,11 +17784,11 @@ Escolha o local inicial padrão para a seleção de objetos relacionados.
     <name>design/standard/form</name>
     <message>
         <source>Thank you for your feedback</source>
-        <translation>Obrigado pela sua contribuição</translation>
+        <translation type="obsolete">Obrigado pela sua contribuição</translation>
     </message>
     <message>
         <source>Your information was successfully received.</source>
-        <translation>A sua informação foi recebida com sucesso.</translation>
+        <translation type="obsolete">A sua informação foi recebida com sucesso.</translation>
     </message>
 </context>
 <context>
@@ -17538,7 +18143,7 @@ Se você removê-los, todas as crianças serão removidas também.
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>Receive all messages combined in one digest</source>
@@ -18857,6 +19462,10 @@ menu do topo.</translation>
     <message>
         <source>Skip</source>
         <translation>Pular</translation>
+    </message>
+    <message>
+        <source>Enclosure (media)</source>
+        <translation>Anexo (midia)</translation>
     </message>
 </context>
 <context>
@@ -21457,6 +22066,30 @@ Esta funcionalidade também está disponível após a configuração inicial na 
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
+    <message>
+        <source>Not all timed out sessions were successfully removed.</source>
+        <translation>Nem todas as sessões expiradas foram removidas com sucesso.</translation>
+    </message>
+    <message>
+        <source>The operation were cut short in order to avoid execution timeout.</source>
+        <translation>A operação foi interrompida para evitar exceder o tempo limite de execução.</translation>
+    </message>
+    <message>
+        <source>Your alternatives are to:</source>
+        <translation>Suas alternativas são:</translation>
+    </message>
+    <message>
+        <source>Repeat the operation several times to complete it.</source>
+        <translation>Repetir a operação várias vezes para concluí-la.</translation>
+    </message>
+    <message>
+        <source>Clear the timed out session data from command-line using: &amp;gt;php bin/php/ezsessiongc.php</source>
+        <translation>Limpar as sessões expiradas através da linha de comando usando: &amp;gt;php bin/php/ezsessiongc.php</translation>
+    </message>
+    <message>
+        <source>Install the session cleanup cronjob &apos;session_gc.php&apos; and run on nightly intervals (see cronjob.ini or doc for how)</source>
+        <translation>Instalar a limpeza de sessão via cronjob &apos;session_gc.php&apos; para ser executada no período noturno (ver cronjob.ini ou o doc de como fazer)</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/setup/tests</name>
@@ -21789,7 +22422,7 @@ Este é um problema de segurança e deve ser mudado para um outro diretório pro
     </message>
     <message>
         <source>, but the latest released PHP 4.4.x version is highly recommended.</source>
-        <translation>, mas a versão de PHP 4.4.x lançada mais recentemente é altamente recomendada.</translation>
+        <translation type="obsolete">, mas a versão de PHP 4.4.x lançada mais recentemente é altamente recomendada.</translation>
     </message>
     <message>
         <source>Missed some directories</source>
@@ -22029,7 +22662,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>To fix this, edit your php.ini configuration and add E to the variables_order setting.</source>
-        <translation>Para corrigir isso, edite seu arquivo de configuração php.ini e adicione E na configuração variables_order.</translation>
+        <translation type="obsolete">Para corrigir isso, edite seu arquivo de configuração php.ini e adicione E na configuração variables_order.</translation>
     </message>
     <message>
         <source>Missing cURL extension</source>
@@ -22062,6 +22695,30 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     <message>
         <source>Download instructions for both regular download and PEAR are provided at</source>
         <translation>As instruções para download comum e PEAR são encontradas em</translation>
+    </message>
+    <message>
+        <source>Missing iconv extension</source>
+        <translation>Está faltando a extensão iconv</translation>
+    </message>
+    <message>
+        <source>The iconv extension is not available to eZ Publish. Without it eZ Publish will not work.</source>
+        <translation>A extensão iconv não está disponível para o eZ Publish. Sem ela o eZ Publish não funcionará.</translation>
+    </message>
+    <message>
+        <source>In most cases, the iconv extension is enabled by default because it is included in the PHP core. However, some Linux distributions have PHP without compiled-in support for iconv. Instead, they provide iconv as a shared module in a separate RPM package called &quot;php-iconv&quot; (or &quot;php5-iconv&quot;).</source>
+        <translation>Na maioria dos casos, a extensão iconv é ativada por padrão porque é incluída no núcleo do PHP. No entanto, algumas distribuições de Linux têm o PHP compilado sem suporte para iconv. Em vez disso, eles fornecem o iconv como um módulo compartilhado em um pacote RPM separado chamada &quot;php-iconv&quot; (ou &quot;php5-iconv&quot;).</translation>
+    </message>
+    <message>
+        <source>, but the latest released stable PHP version is always recommended.</source>
+        <translation>, mas a última versão estável lançada do PHP é sempre recomendável.</translation>
+    </message>
+    <message>
+        <source>Since some extensions might use $_ENV it is recomended to fix it unless you have full controll over all extensions you use!</source>
+        <translation>Uma vez que algumas extensões podem usar a variável $_ENV, recomenda-se corrigir se você tiver o controle total sobre todas as extensões que você usa!</translation>
+    </message>
+    <message>
+        <source>To fix this, edit your php.ini configuration and add E to the variables_order setting and restart your webserver.</source>
+        <translation>Para corrigir isso, edite o seu arquivo de configuração php.ini e adicione E na diretiva variables_order e reinicie o seu servidor web.</translation>
     </message>
 </context>
 <context>
@@ -22335,7 +22992,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>Input did not validate, fill in all fields</source>
-        <translation>As informações entradas não são válidas, preencha todos os campos</translation>
+        <translation>As informações inseridas são inválidas, preencha todos os campos</translation>
     </message>
     <message>
         <source>Wish list</source>
@@ -22911,6 +23568,63 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
 </context>
 <context>
+    <name>design/standard/state/edit</name>
+    <message>
+        <source>Identifier:</source>
+        <translation>Identificador:</translation>
+    </message>
+    <message>
+        <source>Default language:</source>
+        <translation>Idioma padrão:</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Nome:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation>Descrição</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/state/group</name>
+    <message>
+        <source>ID</source>
+        <translation>ID</translation>
+    </message>
+    <message>
+        <source>Identifier</source>
+        <translation>Identificador</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Descrição</translation>
+    </message>
+</context>
+<context>
+    <name>design/standard/state/group_edit</name>
+    <message>
+        <source>Identifier:</source>
+        <translation>Identificador:</translation>
+    </message>
+    <message>
+        <source>Default language:</source>
+        <translation>Idioma padrão:</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Nome:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation>Descrição</translation>
+    </message>
+</context>
+<context>
     <name>design/standard/toolbar</name>
     <message>
         <source>Toolbar management</source>
@@ -23281,7 +23995,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>Input did not validate</source>
-        <translation>As informações entradas não são válidas</translation>
+        <translation>As informações inseridas são inválidas</translation>
     </message>
     <message>
         <source>Input was stored successfully</source>
@@ -23417,12 +24131,16 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <source>Try again</source>
         <translation>Tente novamente</translation>
     </message>
+    <message>
+        <source>The new password must be at least %1 characters long. Please retype your new password.</source>
+        <translation>A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
+    </message>
 </context>
 <context>
     <name>design/standard/user/</name>
     <message>
         <source>The new password must be at least %1 characters long. Please retype your new password.</source>
-        <translation>A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
+        <translation type="obsolete">A nova senha deve ter pelo menos %1 caracteres. Por favor, redigite sua nova senha.</translation>
     </message>
 </context>
 <context>
@@ -24310,6 +25028,10 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
         <source>Text to image cache</source>
         <translation>Cache de conversão de texto para imagem</translation>
     </message>
+    <message>
+        <source>Design base cache</source>
+        <translation>Cache de design</translation>
+    </message>
 </context>
 <context>
     <name>kernel/class</name>
@@ -24327,11 +25049,11 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     </message>
     <message>
         <source>Class edit</source>
-        <translation>Editar Classe</translation>
+        <translation type="obsolete">Editar Classe</translation>
     </message>
     <message>
         <source>Classes</source>
-        <translation>Classes</translation>
+        <translation type="obsolete">Classes</translation>
     </message>
     <message>
         <source>Class list</source>
@@ -24396,6 +25118,14 @@ especificado. Siga as instruções do e-mail para ativar a sua conta.</translati
     <message>
         <source>Please contact your eZ Publish administrator to solve this problem.</source>
         <translation>Entre em contato com o administrador do eZ Publish para resolver este problema.</translation>
+    </message>
+    <message>
+        <source>Class groups</source>
+        <translation>Grupos de classes</translation>
+    </message>
+    <message>
+        <source>Remove classes</source>
+        <translation>Remover classes</translation>
     </message>
 </context>
 <context>
@@ -25029,6 +25759,11 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <source>Missing email input.</source>
         <translation>Campo de e-mail obrigatório.</translation>
     </message>
+    <message>
+        <source>The password cannot be empty.</source>
+        <comment>eZUserType</comment>
+        <translation>A senha não pode estar vazia.</translation>
+    </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezbinaryfile</name>
@@ -25319,6 +26054,22 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
         <source>The receiver has already received the maximum number of tipafriend mails the last hours</source>
         <translation>O receptor já recebeu o número máximo de e-mails &quot;envie para um amigo&quot; nas últimas horas</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation>Erro</translation>
+    </message>
+    <message>
+        <source>The request sent to the server was too big to be accepted. This probably means that you uploaded a file which was too big. The maximum allowed request size is %max_size_string.</source>
+        <translation>O solicitação enviada para o servidor era grande demais para ser aceita. Isso provavelmente significa que você enviou um arquivo muito grande. O tamanho máximo permitido é %max_size_string.</translation>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Painel</translation>
+    </message>
+    <message>
+        <source>You have already sent a tipafriend mail to this reciver regarding &apos;$nodeName&apos; content</source>
+        <translation>Você já enviou um email a este amigo sobre o conteúdo &apos;$nodeName&apos;</translation>
+    </message>
 </context>
 <context>
     <name>kernel/content/copysubtree</name>
@@ -25561,7 +26312,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     <name>kernel/form</name>
     <message>
         <source>Form processing</source>
-        <translation>Processamento de formulários</translation>
+        <translation type="obsolete">Processamento de formulários</translation>
     </message>
 </context>
 <context>
