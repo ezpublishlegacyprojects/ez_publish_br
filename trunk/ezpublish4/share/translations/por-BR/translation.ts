@@ -1718,7 +1718,7 @@
     </message>
     <message>
         <source>There are no drafts that belong to you.</source>
-        <translation>Não existem rascunhos que pertençam a você.</translation>
+        <translation>No momento você não tem nenhum rascunho.</translation>
     </message>
     <message>
         <source>Remove selected drafts.</source>
@@ -1969,7 +1969,7 @@
     </message>
     <message>
         <source>There are no objects related to the one that is currently being edited.</source>
-        <translation>Não existem objetos relacionados ao que está sendo editado no momento.</translation>
+        <translation>No momento não existem objetos relacionados ao atual sendo editados.</translation>
     </message>
     <message>
         <source>Remove the selected items from the list(s) above. It is only the relations that will be removed. The items will not be deleted.</source>
@@ -2391,6 +2391,26 @@
     <message>
         <source>However you can select one of the following languages for editing.</source>
         <translation>Entretanto, você pode selecionar um dos seguintes idiomas para edição.</translation>
+    </message>
+    <message>
+        <source>Existing translations</source>
+        <translation>Traduções existentes</translation>
+    </message>
+    <message>
+        <source>Select the translation you want to edit</source>
+        <translation>Selecione a tradução que você deseja editar</translation>
+    </message>
+    <message>
+        <source>New translation</source>
+        <translation>Nova tradução</translation>
+    </message>
+    <message>
+        <source>Select the translation you want to add</source>
+        <translation>Selecione a tradução que você deseja adicionar</translation>
+    </message>
+    <message>
+        <source>Translate based on</source>
+        <translation>Tradução baseada em</translation>
     </message>
 </context>
 <context>
@@ -3287,7 +3307,7 @@
     </message>
     <message>
         <source>There are no items in the trash</source>
-        <translation>Não existem itens na lixeira</translation>
+        <translation>A lixeira está vazia</translation>
     </message>
     <message>
         <source>Name</source>
@@ -5286,7 +5306,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>There are no available policies.</source>
-        <translation>Não existem políticas em vigor.</translation>
+        <translation>Não há políticas em vigor.</translation>
     </message>
     <message>
         <source>Related objects [%related_objects_count]</source>
@@ -5310,7 +5330,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>There are no assigned roles.</source>
-        <translation>Não existem papéis atribuídos.</translation>
+        <translation>Não há papéis atribuídos.</translation>
     </message>
     <message>
         <source>Hide details.</source>
@@ -6311,7 +6331,7 @@ Tem certeza de que deseja remover a informação coletada?</translation>
     </message>
     <message>
         <source>There are currently no objects selected for export</source>
-        <translation>Não existem objetos selecionados para exportação</translation>
+        <translation>Não há objetos selecionados para exportação</translation>
     </message>
     <message>
         <source>Select an image file to be included in the package then click Next.
@@ -6415,7 +6435,7 @@ Você também pode remover o pacote sem desinstala-lo a partir da lista de pacot
     </message>
     <message>
         <source>There are no packages matching the selected repository.</source>
-        <translation>Não existem pacotes no repositório selecionado.</translation>
+        <translation>Não há pacotes no repositório selecionado.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -7504,7 +7524,7 @@ Nota: Os pacotes não serão desinstalados.</translation>
     </message>
     <message>
         <source>There are no sections on the system.</source>
-        <translation>Não existem seções no sistema.</translation>
+        <translation>Não há seções no sistema.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7841,7 +7861,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no policies set up for this role.</source>
-        <translation>Não existem políticas definidas para este papel.</translation>
+        <translation>Não há políticas definidas para este papel.</translation>
     </message>
     <message>
         <source>Remove selected policies.</source>
@@ -8062,7 +8082,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no policies set up for this role.</source>
-        <translation>Não existem políticas definidas para este papel.</translation>
+        <translation>Não há políticas definidas para este papel.</translation>
     </message>
     <message>
         <source>Toggle selection</source>
@@ -9308,7 +9328,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no available extensions.</source>
-        <translation>Não existem extensões disponíveis.</translation>
+        <translation>Não há extensões disponíveis.</translation>
     </message>
     <message>
         <source>Click this button to store changes if you have modified the status of the checkboxes above.</source>
@@ -9797,7 +9817,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
-        <translation>Existem %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
+        <translation>No momento há %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
     </message>
     <message>
         <source>WARNING! When you remove sessions, users that are logged in will be logged out from the system.</source>
@@ -10511,7 +10531,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no discount groups.</source>
-        <translation>Não existem grupos de descontos.</translation>
+        <translation>Não há grupos de descontos.</translation>
     </message>
     <message>
         <source>Remove selected discount groups.</source>
@@ -10601,7 +10621,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no discount rules in this group.</source>
-        <translation>Não existem regras de descontos neste grupo.</translation>
+        <translation>Não há regras de descontos neste grupo.</translation>
     </message>
     <message>
         <source>Remove selected discount rules.</source>
@@ -10625,7 +10645,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no customers in this discount group.</source>
-        <translation>Não existem clientes neste grupo de descontos.</translation>
+        <translation>Não há clientes neste grupo de descontos.</translation>
     </message>
     <message>
         <source>Remove selected users and/or user groups.</source>
@@ -11340,7 +11360,7 @@ Clique em um dos botões &quot;Conceder..&quot; (explicado abaixo), para prosseg
     </message>
     <message>
         <source>There are no order statuses.</source>
-        <translation>Não existem status de pedidos.</translation>
+        <translation>Não há status de pedidos.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -12707,7 +12727,7 @@ your account.</source>
     </message>
     <message>
         <source>There are currently no tools in this toolbar</source>
-        <translation>Não existem itens nesta barra de utilidades atualmente</translation>
+        <translation>No momento não há itens nesta barra de utilidades</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -12798,7 +12818,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no events within this workflow.</source>
-        <translation>Não existem eventos dentro do workflow.</translation>
+        <translation>Não há eventos dentro deste workflow.</translation>
     </message>
     <message>
         <source>Remove selected events</source>
@@ -12881,7 +12901,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no combinations</source>
-        <translation>Não existem combinações</translation>
+        <translation>Não há combinações</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -13003,7 +13023,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no workflow groups.</source>
-        <translation>Não existem grupos de workflow.</translation>
+        <translation>Não há grupos de workflow.</translation>
     </message>
     <message>
         <source>Remove selected</source>
@@ -14154,7 +14174,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no elements in the list.</source>
-        <translation>Não existem elementos na lista.</translation>
+        <translation>Não há elementos na lista.</translation>
     </message>
     <message>
         <source>New element</source>
@@ -14214,7 +14234,7 @@ your account.</source>
     </message>
     <message>
         <source>There are no options.</source>
-        <translation>Não existem opções.</translation>
+        <translation>Não há opções.</translation>
     </message>
     <message>
         <source>Add a new option.</source>
@@ -14629,7 +14649,7 @@ your account.</source>
     </message>
     <message>
         <source>The classes %1 were already removed from the group but still exist in others.</source>
-        <translation>As classes %1 já foram removidas do grupo mas ainda existem em outros grupos.</translation>
+        <translation>As classes %1 já foram removidas do grupo mas ainda estão em outros grupos.</translation>
     </message>
     <message>
         <source>Default object availability</source>
@@ -15613,7 +15633,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>There are no options.</source>
-        <translation>Não existem opções.</translation>
+        <translation>Não há opções.</translation>
     </message>
     <message>
         <source>Current file</source>
@@ -15669,7 +15689,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>There are no multioptions.</source>
-        <translation>Não existem opções múltiplas.</translation>
+        <translation>Não há opções múltiplas.</translation>
     </message>
     <message>
         <source>Section</source>
@@ -15677,7 +15697,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>There are no related objects.</source>
-        <translation>Não existem objetos relacionados.</translation>
+        <translation>Não há objetos relacionados.</translation>
     </message>
     <message>
         <source>Edit selected</source>
@@ -15693,7 +15713,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>There are no rows in the matrix.</source>
-        <translation>Não existem linhas na matriz.</translation>
+        <translation>Não há linhas na matriz.</translation>
     </message>
     <message>
         <source>Option set name</source>
@@ -15753,7 +15773,7 @@ Se quiser enviar comentários ao aprovador ou ver o status do processo, use a UR
     </message>
     <message>
         <source>There are no available currencies.</source>
-        <translation>Não existem moedas disponíveis.</translation>
+        <translation>Não há moedas disponíveis.</translation>
     </message>
     <message>
         <source>VAT</source>
@@ -21153,7 +21173,7 @@ Para corrigir este problema use uma das seguintes opções:</translation>
     </message>
     <message>
         <source>There are some important issues that have to be resolved. A list of issues / problems is presented below. Each section contains a description and a suggested / recommended solution.</source>
-        <translation>Existem alguns problemas importantes que devem ser resolvidos. Abaixo é apresentada uma lista com esses problemas. Cada seção contém uma descrição e uma sugestão / recomendação para a sua solução.</translation>
+        <translation>No momento há alguns problemas importantes que devem ser resolvidos. Abaixo é apresentada uma lista com esses problemas. Cada seção contém uma descrição e uma sugestão / recomendação para a sua solução.</translation>
     </message>
     <message>
         <source>Once the problems / issues are fixed, you may click the &lt;i&gt;Next&lt;/i&gt; button to continue. The system check will be run again. If everything is okay, the setup will go to the next stage. If there are problems, the system check page will reappear.</source>
@@ -21185,7 +21205,7 @@ Para corrigir este problema use uma das seguintes opções:</translation>
     </message>
     <message>
         <source>The system check page is being displayed. This means that there are some problems/issues present.</source>
-        <translation>A página de verificação do sistema está a ser mostrada. Isto significa que existem alguns problemas.</translation>
+        <translation>A página de verificação do sistema está a ser mostrada. Isto significa que há alguns problemas.</translation>
     </message>
     <message>
         <source>This section will contain information/help about each step in the setup wizard.</source>
@@ -21498,7 +21518,7 @@ It is possible to change these settings at a later time.</source>
     </message>
     <message>
         <source>There are two options:&lt;br&gt;- Direct delivery through transfer agent (must be available on the server).&lt;br&gt;- Indirect delivery using an SMTP relay server.</source>
-        <translation>Existem duas opções:&lt;br&gt;- Envio direto através do sendmail (deve estar disponível no servidor).&lt;br&gt;- Envio indireto utilizando um servidor SMTP.</translation>
+        <translation>Há duas opções:&lt;br&gt;- Envio direto através do sendmail (deve estar disponível no servidor).&lt;br&gt;- Envio indireto utilizando um servidor SMTP.</translation>
     </message>
     <message>
         <source>Sendmail/MTA</source>
@@ -22056,7 +22076,7 @@ Esta funcionalidade também está disponível após a configuração inicial na 
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
-        <translation>Existem %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
+        <translation>No momento há %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -23632,7 +23652,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>There are %logged_in_count registered and %anonymous_count anonymous users online.</source>
-        <translation>Existem %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
+        <translation>No momento há %logged_in_count usuários registrados e %anonymous_count usuários anônimos online.</translation>
     </message>
     <message>
         <source>Shopping basket</source>
@@ -23733,7 +23753,7 @@ Para fazer isso, você pode usar o comando %chown embaixo dos comandos do shell 
     </message>
     <message>
         <source>There are no available currencies</source>
-        <translation>Não existem moedas disponíveis</translation>
+        <translation>Não há moedas disponíveis</translation>
     </message>
     <message>
         <source>Your country</source>
@@ -27229,7 +27249,7 @@ se você selecionou a opção &quot;%3&quot; de &quot;%4&quot;  </translation>
     </message>
     <message>
         <source>Translations: there are multiple localizations but you did not specify which is the default one</source>
-        <translation>Traduções: existem múltiplas localizações, mas você não especificou qual é a padrão</translation>
+        <translation>Traduções: no momento há múltiplos idiomas disponíveis, mas você não especificou qual é a padrão</translation>
     </message>
     <message>
         <source>Identifier: identifiers starting with &quot;ez&quot; are reserved.</source>
